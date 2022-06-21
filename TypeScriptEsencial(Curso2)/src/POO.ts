@@ -307,3 +307,4 @@ class Vehiculo3 {
 const vehiculo = new Vehiculo3('Nissan', 'azul', 4)
 vehiculo.hacerMantenimiento(PiezasExterna.Llantas)
 vehiculo.hacerMantenimiento(LiquidoVehiculo.Aceite)
+
